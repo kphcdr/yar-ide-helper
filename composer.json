@@ -1,0 +1,10 @@
+{
+  "name": "kphcdr/yar-ide-helper",
+  "description": "在 ide 中可识别 yar 系列函数和方法",
+  "authors": [
+    {
+      "name": "kphcdr",
+      "email": "kphcdr@163.com"
+    }
+  ]
+}
